@@ -9,7 +9,7 @@ The aim was to understand how PCA can help identify patterns and separation in b
 * **data/filtered.tsv.gz** → Filtered gene expression matrix for 105 patients.
 * **data/class.tsv** → Sample class labels (1: ER+ breast cancer, 0: ER- breast cancer).
 * **data/columns.tsv.gz** → Metadata/column information mapping IDs to Gene Symbols.
-* **PCA_Analysis.ipynb** → The Google Colab/Jupyter Notebook containing the analysis and visualizations.
+* **PCA_Analysis.ipynb** → The Google Colab containing the analysis and visualizations.
 
 ## Analysis Workflow
 
