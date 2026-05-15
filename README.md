@@ -33,5 +33,5 @@ The aim was to understand how PCA can help identify patterns and separation in b
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/PCA_Breast_Cancer.git](https://github.com/YOUR_USERNAME/PCA_Breast_Cancer.git)
-   cd PCA_Breast_Cancer
+   git clone https://github.com/deekshant-artiya/pca.git
+   cd pca
